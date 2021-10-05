@@ -1,7 +1,6 @@
 
 #!/bin/bash
-# xray一键安装脚本
-# Author: hijk<https://hijk.art>
+# xray一键
 
 
 RED="\033[31m"      # Error message
